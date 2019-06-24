@@ -1,7 +1,7 @@
 Dado ("que eu cadastre um novo aluno via API") do
   @contatos = {
-      "name": "Carlos Russo",
-      "email": "carlos@gmail.com",
+      "name": "Danielle Souza",
+      "email": "dani@gmail.com",
       "password": "222000"
       
     }.to_json

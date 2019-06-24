@@ -1,6 +1,6 @@
 Dado("que envie as informações para deletar") do
     @contatos = {
-        "id": 8
+        "id": 5
        
        }.to_json  
     

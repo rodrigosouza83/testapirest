@@ -2,8 +2,8 @@ Dado("que altero uma ou mais informaçoes na tabela aluno") do
 
   @contatos = {
      "id": 2,
-     "name": "Raquel Dias",
-     "email": "raquel@gmail.com",
+     "name": "Carla Dias",
+     "email": "carla@gmail.com",
      "password": "1234567"
     
     }.to_json

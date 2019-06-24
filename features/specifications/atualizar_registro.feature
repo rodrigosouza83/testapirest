@@ -8,6 +8,6 @@ Para alterar dados da tabela de alunos
 
 Cenario: Realizar uma requisição PUT com sucesso
 
-  Dado que altero uma ou mais informaçoes na tabela aluno
+  Dado que altero uma ou mais informações na tabela aluno
   Entao o método put é efetuado com sucesso
   
